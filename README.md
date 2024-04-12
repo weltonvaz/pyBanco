@@ -39,6 +39,3 @@ Sinta-se à vontade para **forkar** o projeto, fazer melhorias e enviar um **pul
 
 Este projeto está licenciado sob a GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 - veja o arquivo LICENSE.md para detalhes.
 
----
-
-Espero que este projeto ajude você a entender melhor os conceitos de desenvolvimento de software financeiro e segurança. Boa sorte com suas entrevistas técnicas!
