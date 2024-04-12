@@ -29,7 +29,7 @@ O desenvolvimento focou em práticas de programação como:
 
 1. Clone o repositório para sua máquina local.
 2. Certifique-se de ter o Python instalado.
-3. Execute o script com `python nome_do_arquivo.py`.
+3. Execute o script com `pyBanco.py`.
 
 ### Contribuindo
 
